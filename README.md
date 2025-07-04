@@ -10,11 +10,14 @@ Which 10 products generated the highest total revenue across all regions and tim
 2. Top 5 Best-Selling Products by Region  
 What are the top 5 best-selling products by total quantity sold in each region?
 
-3. Monthly Revenue Growth Comparison (2023 vs 2022)  How does the monthly revenue in 2023 compare to the same months in 2022
+3. Monthly Revenue Growth Comparison (2023 vs 2022)  
+How does the monthly revenue in 2023 compare to the same months in 2022
 
-4. Top-Selling Product Category by Month  Which product category had the highest total sales in each month?
+4. Top-Selling Product Category by Month  
+Which product category had the highest total sales in each month?
 
-5. Sub-Category with Highest YoY Profit Growth (2023 compared to 2022)  Which product sub-category experienced the highest YOY profit growth from 2022 to 2023?
+5. Sub-Category with Highest YoY Profit Growth (2023 compared to 2022)  
+Which product sub-category experienced the highest YOY profit growth from 2022 to 2023?
 
 
 Tools & Tech Stack:
